@@ -9,7 +9,7 @@
 
 
 
-- 💬 Ask me about **WEB, MERN**
+- 💬 Ask me about **SQA Automation**
 
 
 
