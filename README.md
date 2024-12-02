@@ -44,11 +44,11 @@ I am a Software Quality Assurance (SQA) professional with a strong background in
 🛠 Skills and Technologies 
 
 
-Programming Languages: JavaScript, C/C++ 
+Programming Languages: C/C++, JavaScript, Java
 
-Bash Automation Tools: Cypress, Selenium WebDriver
+Automation Tools: Cypress, Selenium WebDriver
 
-API: Postman
+API Testing: Postman
 
 Version Control: Git, GitHub
 
@@ -56,11 +56,11 @@ CI/CD: GitHub Actions
 
 Bug Tracking: JIRA, Redmine
 
-Test Methodologies: White Box, Black Box, Regression, Functional, End-to-End Testing
+Concepts: White Box, Black Box, Regression, Functional, End-to-End Testing, SDLC, STLC, Agile Methodologies
 
-Frameworks: Mocha
+Frameworks: Mocha, Page Object Model
 
-Databases: MySQL, MongoDB
+Databases: MySQL, Oracle
 
 
 🚀 Projects I've Worked On 
