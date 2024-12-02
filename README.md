@@ -91,7 +91,7 @@ Automation Testing with Cypress: Online Course Certification
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmid888&show_icons=true&locale=en" alt="tahmid888" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmid888&" alt="tahmid888" /></p>
+
 
 
 
